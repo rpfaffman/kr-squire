@@ -4,6 +4,7 @@ const defaults = {
   KR_TEST_URI: 'http://firetv.vevo.com',
   PORT: 3000,
   TEST_TIMEOUT: 120000,
+  VEVO_ACTIVATION_URI: 'https://vevo.com/activate/firetv',
   VEVO_TEST_EMAIL: 'vevo.test.samsung@gmail.com',
   VEVO_TEST_PASSWORD: 'asdfasdf'
 }
