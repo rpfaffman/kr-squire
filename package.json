@@ -1,6 +1,9 @@
 {
   "name": "squire",
   "version": "1.0.0",
+  "engines": {
+    "node": "7.10.0"
+  },
   "description": "Automated end-to-end integration testing for Knight Rider.",
   "main": "app.js",
   "scripts": {
@@ -20,6 +23,8 @@
     "mocha": "^3.4.2",
     "mongodb": "^2.2.27",
     "nightmare": "^2.10.0",
-    "xvfb": "^0.2.3"
+    "phantom": "^4.0.3",
+    "xvfb": "^0.2.3",
+    "zombie": "^5.0.5"
   }
 }
