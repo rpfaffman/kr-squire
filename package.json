@@ -18,13 +18,9 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^3.5.0",
-    "electron": "^1.6.8",
     "express": "^4.15.3",
     "mocha": "^3.4.2",
     "mongodb": "^2.2.27",
-    "nightmare": "^2.10.0",
-    "phantom": "^4.0.3",
-    "xvfb": "^0.2.3",
-    "zombie": "^5.0.5"
+    "phantom": "^4.0.3"
   }
 }
