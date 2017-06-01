@@ -5,7 +5,7 @@ const defaults = {
   PORT: 3000,
   TEST_TIMEOUT: 120000,
   VEVO_ACTIVATION_URI: 'https://vevo.com/activate/firetv',
-  VEVO_TEST_EMAIL: 'vevo.test.samsung@gmail.com',
+  VEVO_TEST_EMAIL: 'tv.test.1@gmail.com',
   VEVO_TEST_PASSWORD: 'asdfasdf'
 }
 
